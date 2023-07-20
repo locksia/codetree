@@ -1,4 +1,4 @@
-
+```
 #include <iostream>
 using namespace std;
 
@@ -31,3 +31,4 @@ int main() {
     cout << cnt << endl;
     return 0;
 }
+```
